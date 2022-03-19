@@ -23,7 +23,7 @@ Generate and see random advices when they click on the dice.
 
 ### Screenshot
 
-(demo.jpg)
+![demo](demo.jpeg)
 
 ### Links
 
