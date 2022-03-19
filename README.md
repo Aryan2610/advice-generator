@@ -28,7 +28,7 @@ Generate and see random advices when they click on the dice.
 ### Links
 
 - Solution URL: (https://github.com/Aryan2610/advice-generator)
-- Live Site URL: 
+- Live Site URL: (https://aryan2610.github.io/advice-generator)
 
 
 
