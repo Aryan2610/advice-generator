@@ -14,7 +14,7 @@ Advice generator app
 ## Overview
 
 This app generates random advices using advices slip api
-(https://api.adviceslip.com/advice)
+(https://api.adviceslip.com)
 
 ### The challenge
 
