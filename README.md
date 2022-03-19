@@ -34,12 +34,12 @@ Generate and see random advices when they click on the dice.
 
 ### Built with
 
-HTML
-CSS
-JavaScript
-API
+-HTML
+-CSS
+-JavaScript
+-API
 
 ## Author
 
 Aryan Agarwal
-From Frontend mentor
+-From Frontend mentor
